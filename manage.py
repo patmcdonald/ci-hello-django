@@ -3,7 +3,6 @@
 import os
 import sys
 
-print(os.getenv('envpy_test'))
 
 def main():
     """Run administrative tasks."""
